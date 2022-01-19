@@ -7,25 +7,48 @@ Vúmetro con tiras leds, regulando intensidad de brillo con un potenciómetro mo
 ## Contenido:
   - [Circuito Esquemático](#Circuito_Esquemático) 
   - [Implementación en Protoboard](#Implementación_en_Protoboard) 
-  - [Archivo PDF de las simulaciones del proyecto](#Archivo_PDF_de_las_simulaciones_del_proyecto) 
-  - [Archivo PDF del PCB del Proyecto](#Archivo_PDF_del_PCB_del_Proyecto) 
-  - [Archivo PDF del informe del proyecto](#Archivo_PDF_del_informe_del_proyecto) 
-  - [Ficha Técnica del Proyecto](#Ficha_Técnica_del_Proyecto) 
+  - [Simulaciones del proyecto](#Simulaciones_del_proyecto) 
+  - [PCB del Proyecto](#PCB_del_Proyecto) 
+  - [Ficha Técnica del Proyecto](#Ficha_Técnica_del_Proyecto)
+  - [Informe del proyecto](#Informe_del_proyecto) 
   - [Video](#Video) 
 
 ## Circuito Esquemático:
-![github-small](https://github.com/TheLast20/proyecto_SE_ROMERO_TORRES/tree/main/Capturas/circuito.jpeg)
+![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/circuito.jpg)
 
 ## Implementación en Protoboard:
-![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/tree/main/Capturas/implementacion.jpeg)
+_Se muestra el circuito implementado en el protoboard._
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/proto1.jpeg)
+
+_Se pueden observar cada uno de los componentes electrónicos implementados junto a sus correspondientes conexiones._
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/proto2.jpeg)
+
 
 ## Archivo PDF de las simulaciones del proyecto:
-![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/tree/main/Capturas/simulacion1.jpeg)
 
-## Archivo PDF del PCB del Proyecto:
-![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/tree/main/Capturas/pcb1.jpeg)
+_Se puede apreciar la primera secuencia activada por el botón 1, así como también se ha regulado la intensidad del brillo a través de un potenciómetro y como por medio de una pantalla led se muestra el porcentaje de volumen._
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/sim1.png)
+
+_Se puede observar la primera secuencia completa por el botón 1, así como también se ha regulado la intensidad del brillo a través de un potenciómetro hasta alcanzar un porcentaje de volumen en 100%_
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/sim2.PNG)
+
+_Se recibe la orden del botón 2 y se cambia de secuencia, mientras que se dota de apenas un volumen en un 30%._
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/sim3.PNG)
+
+_Se muestra la secuencia numero 2 más completa hasta que ha conseguido un 80% de volumen._
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/sim4.PNG)
+
+## Archivo PDF de las pcb del proyecto:
+* Vista diagonal pcb
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb1.jpeg)
+* Vista superior pcb
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb2.jpeg)
+* Vista lateral pcb
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb3.jpeg)
+* Vista inferior pcb
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb4.jpeg)
 
 ### Ficha Técnica del Proyecto:
-![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/tree/main/Capturas/ficha.jpeg)
+![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/ficha.PNG)
 
 ### Video
