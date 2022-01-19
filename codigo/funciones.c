@@ -1,6 +1,6 @@
 #include "funciones.h"
 
-#define N_PIXELS  60 // Número de leds
+#define N_PIXELS  16 // Número de leds
 #define LED_PIN    6  // NeoPixel LED strand is connected to this pin (PD6)
 //------------------A-BCDEFG  (Segmentos del display) el PIN PB6 y PB7 no se utiliza ya que en arduino están ocupados por un reloj
 #define Num0 0b10111110
