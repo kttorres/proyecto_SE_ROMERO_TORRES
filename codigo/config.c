@@ -24,7 +24,7 @@ void interrupt_INT1_Init(){
 void ADC_Init(){
  ADCSRA = 0b10101111; //ADC activado modo automático y preescalador 128
  ADCSRB= 0b100; //Modo Timer0 por desbordamiento
- DIDR0 |= (1<<ADC3D); //ENABLE ANALOG MODE ADC3 y ADC2
+ DIDR0 |= (1<<ADC3D); //ENABLE ANALOG MODE ADC3
  ADMUX = 0b01000011;  //AVCC- AREF y ADC3 (micrófono)
 }
 
