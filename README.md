@@ -14,7 +14,7 @@ Vúmetro con tiras leds, regulando intensidad de brillo con un potenciómetro mo
   - [Video](#Video) 
 
 ## Circuito Esquemático:
-![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/tree/main/Capturas/circuito.jpeg)
+![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/tree/main/Capturas/circuito.jpg)
 
 ## Implementación en Protoboard:
 ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/tree/main/Capturas/implementacion.jpeg)
