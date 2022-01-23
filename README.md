@@ -12,10 +12,10 @@ Vúmetro con tiras leds, regulando intensidad de brillo con un potenciómetro mo
   - [Ficha Técnica del Proyecto](#Ficha)
   - [Video](#Video) 
 
-## Circuito Esquemático
+## Circuito
 ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/circuito.jpg)
 
-## Implementación en Protoboard
+## Implementación
 _Se muestra el circuito implementado en el protoboard._
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/proto1.jpeg)
 
@@ -23,7 +23,7 @@ _Se pueden observar cada uno de los componentes electrónicos implementados junt
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/proto2.jpeg)
 
 
-## Simulaciones del proyecto
+## Simulaciones
 
 _Se puede apreciar la primera secuencia activada por el botón 1, así como también se ha regulado la intensidad del brillo a través de un potenciómetro y como por medio de una pantalla led se muestra el porcentaje de volumen._
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/sim1.png)
@@ -37,7 +37,7 @@ _Se recibe la orden del botón 2 y se cambia de secuencia, mientras que se dota 
 _Se muestra la secuencia numero 2 más completa hasta que ha conseguido un 80% de volumen._
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/sim4.PNG)
 
-## Pcb del proyecto
+## Pcb
 * Vista diagonal pcb
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb1.jpeg)
 * Vista superior pcb
@@ -47,10 +47,10 @@ _Se muestra la secuencia numero 2 más completa hasta que ha conseguido un 80% d
 * Vista inferior pcb
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb4.jpeg)
 
-### Ficha Técnica del Proyecto
+### Ficha
 ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/ficha.PNG)
 
 ### Video
 
-[![Alt text](https://img.youtube.com/vi/JA3C6QIUXu0/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
+[![Alt text](https://img.youtube.com/vi/JA3C6QIUXu0/0.jpg)](https://www.youtube.com/watch?v=JA3C6QIUXu0)
 
