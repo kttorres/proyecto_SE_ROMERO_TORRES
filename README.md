@@ -5,11 +5,11 @@ Vúmetro con tiras leds, regulando intensidad de brillo con un potenciómetro mo
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Karen Thamara Torres Medina / Mecatrónica / 0963146447`
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Giovanny Andrés Romero Vizueta / Mecatrónica / 0986617275`
 ## Contenido:
-  - [Circuito Esquemático](#Circuito Esquemático) 
-  - [Implementación en Protoboard](#Implementación en Protoboard) 
-  - [Simulaciones del proyecto](#Simulaciones del proyecto) 
-  - [PCB del Proyecto](#PCB del Proyecto) 
-  - [Ficha Técnica del Proyecto](#Ficha Técnica del Proyecto)
+  - [Circuito Esquemático](#Circuito) 
+  - [Implementación en Protoboard](#Implementación) 
+  - [Simulaciones del proyecto](#Simulaciones) 
+  - [PCB del Proyecto](#PCB) 
+  - [Ficha Técnica del Proyecto](#Ficha)
   - [Video](#Video) 
 
 ## Circuito Esquemático
@@ -52,4 +52,5 @@ _Se muestra la secuencia numero 2 más completa hasta que ha conseguido un 80% d
 
 ### Video
 
-https://youtu.be/JA3C6QIUXu0 
+[![Alt text](https://img.youtube.com/vi/JA3C6QIUXu0/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
+
