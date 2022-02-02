@@ -13,7 +13,9 @@ Vúmetro con tiras leds, regulando intensidad de brillo con un potenciómetro mo
   - [Video](#Video) 
 
 ## Circuito
+# Avance
 ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/circuito.jpg)
+# Final
 
 ## Implementación
 _Se muestra el circuito implementado en el protoboard._
@@ -22,6 +24,12 @@ _Se muestra el circuito implementado en el protoboard._
 _Se pueden observar cada uno de los componentes electrónicos implementados junto a sus correspondientes conexiones._
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/proto2.jpeg)
 
+# Implmentación Final
+_Se realizaron algunas modificaciones, tales como ensamblado y soldado para que el proyecto sea más sofisticado._
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/imp3.jpeg)
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/imp4.jpeg)
+_El circuito desmontado, mostrando la elaboración de la pcb_
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/imp1.jpeg)
 
 ## Simulaciones
 
@@ -44,9 +52,10 @@ _Se muestra la secuencia numero 2 más completa hasta que ha conseguido un 80% d
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb2.jpeg)
 * Vista lateral pcb
 > ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb3.jpeg)
-* Vista inferior pcb
-> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcb4.jpeg)
 
+# PCB Final
+> ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/pcbfinal.PNG)
+> 
 ### Ficha
 ![github-small](https://github.com/kttorres/proyecto_SE_ROMERO_TORRES/blob/main/Capturas/ficha.PNG)
 
